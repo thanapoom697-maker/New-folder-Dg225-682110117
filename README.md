@@ -1,4 +1,4 @@
-# Production Journal — [ชื่อ-นามสกุล]
+# Production Journal — [THANAPHOM LACEE]
 
 รายวิชา: Digital Game Production Management
 วันที่เริ่มต้น: [วันที่]
