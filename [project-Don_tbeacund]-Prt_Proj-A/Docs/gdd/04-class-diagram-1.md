@@ -1,9 +1,8 @@
 ---
 type: gdd-class-diagram
 version: 0.1
-date: [วันที่]
+date: [14/07/26]
 ---
-
 # Class Diagram — [ชื่อเกม]
 
 ```mermaid

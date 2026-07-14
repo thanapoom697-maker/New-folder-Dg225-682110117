@@ -3,7 +3,6 @@ type: gdd-mechanics
 version: 0.1
 date: [14/07/26]
 ---
-
 # Mechanic Design — [ชื่อ Mechanic]
 
 ## State Diagram
@@ -11,18 +10,34 @@ date: [14/07/26]
 ```mermaid
 stateDiagram-v2
     [*] --> Idle
-    Idle --> Move : กด Arrow/WASD
-    Move --> Jump : กด Space
-    Jump --> Fall : ตกจากจุดสูงสุด
-    Fall --> Idle : แตะพื้น
-    Idle --> Attack : กด Attack button
-    Attack --> Idle : Animation จบ
+    Idle --> move : click item or place
+    move --> Int : colect item
+Int --> move
+move --> Idle
+  Idle --> Cutsceen_fight: follow dialogue face an enemy
+ Cutsceen_fight --> lose: dead
+  Cutsceen_fight --> win: survie
+win --> Idle
+ lose --> End
+
+
+
+
+   
+ 
+
+  
+  
+   
 ```
 
 ## Rules
 
-| State | เข้าเงื่อนไข | ออกเงื่อนไข | Note |
-|---|---|---|---|
-| Idle | เริ่มเกม / หยุดเคลื่อนที่ | กด input ใดๆ | Animation loop |
-| Move | กดปุ่มทิศทาง | ปล่อยปุ่ม / กระโดด | Speed = [ค่า] |
-| Jump | กด Space ขณะอยู่พื้น | ถึงจุดสูงสุด | Gravity = [ค่า] |
+| State    | เข้าเงื่อนไข                            | ออกเงื่อนไข                             | Note               |
+| -------- | --------------------------------------------------- | -------------------------------------------------- | ------------------ |
+| Idle     | เมื่อตัวละครอยู่นิ่ง            | เมื่อมีการเคลื่อนไหว           | Animation loop     |
+| Move     | กดไปตามพื้นที่                        | เมื่อตัวละครหยุดนิ่ง           | Speed              |
+| Int      | กดไปที่ไอเทม                            | เมื่อไม่มีการคลิกที่ไอเทม | Interact with item |
+| Cutsceen | เมื่อenemyเข้าในระยะที่กำหนด | เมื่อไม่อยู่ในระยะ               | Quick time event   |
+| lose     | เมื่อแพ้ในcutsceen                        | เมื่อชนะcutsceen                           | lose               |
+| End      | เมื่อชนะcutsceen                            | เมื่อแพ้ในcutsceen                       | Renew game         |
