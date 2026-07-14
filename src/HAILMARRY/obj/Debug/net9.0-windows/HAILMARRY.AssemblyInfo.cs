@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HAILMARRY")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351063578d57f3618b9f212bb5ef83e4dce888b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e153a8ab48b1fd8dee05dd260ead0b4746f40ebe")]
 [assembly: System.Reflection.AssemblyProductAttribute("HAILMARRY")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HAILMARRY")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
