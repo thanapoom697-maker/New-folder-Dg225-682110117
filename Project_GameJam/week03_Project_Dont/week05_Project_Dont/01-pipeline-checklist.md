@@ -1,8 +1,8 @@
 ---
 type: jam-pipeline
 version: 0.1
-date: [วันที่]
-team: [ชื่อทีม]
+date: [21/07/26]
+team: [Mr.Dontebeacund]
 ---
 
 # Pipeline Function Checklist — [ชื่อเกม]
