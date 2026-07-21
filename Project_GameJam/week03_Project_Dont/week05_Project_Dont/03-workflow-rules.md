@@ -5,7 +5,7 @@ date: [วันที่]
 team: [ชื่อทีม]
 ---
 
-# Git Workflow Rules — [ชื่อทีม]
+# Git Workflow Rules — [Mr.Dontebeacund]
 
 > ปรับจาก branching workflow ปกติให้ "เร็วพอ" สำหรับ 48 ชม. — ตกลงกติกาให้ครบก่อนเริ่ม แล้วห้ามเปลี่ยนกลางทาง
 
