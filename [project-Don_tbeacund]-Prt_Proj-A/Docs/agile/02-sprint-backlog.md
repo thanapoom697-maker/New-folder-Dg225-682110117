@@ -26,7 +26,7 @@ gantt
 	เขียนโค้ด 1 :s1, 2026-09-01, 1d
     Sprint 2 :s2, after s1, 14d
     Sprint 3 :s3, after s2, 14d
-    Sprint 4 :s4, after s3, 14d
+    Sprint 4 :s4, after s3, 10d
 ```
 
 > ปรับวันที่ให้ตรงกับวันที่ทีมเริ่มลงมือทำจริง (ถ้าไม่ใช่วันแลปนี้)
