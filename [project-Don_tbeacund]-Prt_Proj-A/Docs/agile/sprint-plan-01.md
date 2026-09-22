@@ -24,7 +24,7 @@
 | **4**  | **As a player, มีคัตซีนตอนเปลี่ยนที่**                            | idea/tee/name            | **Must Have**    | **5**   | 🔲     |
 | **5**  | **As Development, ให้ไฟฉายมีความสั่น**                               | idea                     | **Should Have**  | **4**   | 🔲     |
 | **6**  | **As Designer, เพิ่มให้ทางให้ยาวขึ้น**                            | tee/name                 | **Should Have**  | **6**   | 🔲     |
-| **7**  | **As player, อยากให้มีประเภทผีเพิ่มขึ้น**                    | idea/name                | **Should Have**  | 8             | 🔲     |
+| **7**  | **As player, อยากให้มีประเภทผีเพิ่มขึ้น**                    | idea                     | **Should Have**  | **6**   | 🔲     |
 | **8**  | **As designer, ทำให้puzzle ซับซ้อนขึ้น**                              | tee/name                 | **Should Have**  | **7**   | 🔲     |
 | **9**  | **As Developmentไฟฉายกระพริบ**                                             | idea                     | **Nice to Have** | **5**   | 🔲     |
 | **10** | **As Artist, ไฟฉายสวยขึ้น**                                                | tee/name                 | **Nice to Have** | **5**   | 🔲     |
@@ -39,12 +39,10 @@
 
 ## Tasks
 
-### Story 1 — [ไม่เอาผีโผล่ออกมาแบบแปะภาพ]
+### Story 1 — [As Artist, ทำฉากเกมใหม่]
 
+- [ ] [Task ย่อย]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
 - [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
-- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
-
----
 
 ## Daily Notes
 
@@ -61,3 +59,9 @@
 - [[docs/gdd/00-concept|GDD Concept]]
 - [[docs/agile/01-product-backlog|Product Backlog]]
 - [[docs/agile/02-sprint-backlog|Sprint Backlog]]
+
+### Story 1 — [ชื่อย่อของ Story]
+
+- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
+- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
+- [ ]
