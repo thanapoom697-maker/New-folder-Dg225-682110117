@@ -42,7 +42,7 @@
 ### Story 1 — [ไม่เอาผีโผล่ออกมาแบบแปะภาพ]
 
 - [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
-- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
+- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo
 
 ---
 
