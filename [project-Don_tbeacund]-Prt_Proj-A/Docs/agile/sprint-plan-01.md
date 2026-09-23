@@ -41,11 +41,12 @@
 
 ### Story 1 — [As Artist, ทำฉากเกมใหม่]
 
-- [ ] [Task ย่อย]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
-- [ ] [Task ย่อย]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
+- [ 🔄 ] [Task BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
+
 
 ## Daily Notes
-
+9/23/26
+ออกแบบbackgroundเสร็จไปแล้วสามฉาก 
 ### [วันที่]
 
 **เมื่อวาน:** ...
