@@ -28,7 +28,7 @@
 | **8**  | **As designer, ทำให้puzzle ซับซ้อนขึ้น**                              | tee/name                 | **Should Have**  | **7**   | 🔲     |
 | **9**  | **As Developmentไฟฉายกระพริบ**                                             | idea                     | **Nice to Have** | **5**   | 🔲     |
 | **10** | **As Artist, ไฟฉายสวยขึ้น**                                                | tee/name                 | **Nice to Have** | **5**   | 🔲     |
-| **11** | **As Artist, ทำฉากเกมใหม่**                                                | tee                      | Must Have              | 10            | 🔲     |
+| **11** | **As Artist, ทำฉากเกมใหม่**                                                | tee                      | Must Have              | 10            | 🔄     |
 
 - 🔲 Todo
 - 🔄 In Progress
