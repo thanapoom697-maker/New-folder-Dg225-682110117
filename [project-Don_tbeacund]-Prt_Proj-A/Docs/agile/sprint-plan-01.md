@@ -41,12 +41,13 @@
 
 ### Story 1 — [As Artist, ทำฉากเกมใหม่]
 
-- [ 🔄 ] [Task BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
-
-
+- [ 🔄 ] [Task Prototype BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
+- [ 🔄 ] [Task RealBG and Scence] [owner :: **Tee**] [estimate:: **15**] [status:**In progress**]
 ## Daily Notes
 9/23/26
 ออกแบบbackgroundเสร็จไปแล้วสามฉาก 
+9/25/26
+วาดฉบับร่างเสร็จเรียบร้อย รอดูfeedbackจากอาจาร์ย
 ### [วันที่]
 
 **เมื่อวาน:** ...
