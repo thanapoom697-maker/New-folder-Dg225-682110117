@@ -41,7 +41,7 @@
 
 ### Story 1 — [As Artist, ทำฉากเกมใหม่]
 
-- [ 🔄 ] [Task Prototype BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**  [status:: **In Progress**]
+- [ ✅ ] [Task Prototype BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**]  [status:: **Done**]
 - [ 🔄 ] [Task RealBG and Scence] [owner :: **Tee**] [estimate:: **15**] [status:**In progress**]
 ## Daily Notes
 9/23/26
