@@ -42,7 +42,8 @@
 ### Story 1 — [As Artist, ทำฉากเกมใหม่]
 
 - [ ✅ ] [Task Prototype BackGround Scence]  [owner:: **Tee**]  [estimate:: **10**]  [status:: **Done**]
-- [ 🔄 ] [Task RealBG and Scence] [owner :: **Tee**] [estimate:: **15**] [status:**In progress**]
+- [ 🔄 ] [Task RealBG and Scence] [owner :: **Tee**] [estimate:: **15**] [status:**In progress/deadline wed-thrusday**]
+- [ 🔄 ] [Task puzzleยังไม่ต้องซับซ้อน ทำไอเทมในเกม] [owner :: **Tee**] [estimate:: **15**] [status:**In progress/deadline wed-thrusday**]
 ## Daily Notes
 9/23/26
 ออกแบบbackgroundเสร็จไปแล้วสามฉาก 
